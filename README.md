@@ -6,20 +6,7 @@ I enjoy building projects that combine software with real-world hardware, from U
 
 ## Featured Projects
 
-### 1. Fully Actuated Hexarotor UAV
-
-**Topics:** robotics, control systems, aerial vehicles, MATLAB, Simulink, SolidWorks, Vicon
-
-Designed, modeled, and experimentally validated a fully actuated hexarotor UAV with tilted rotors for independent 6-DOF control. The project focused on wrench allocation, rotor configuration optimization, simulation, and real-world flight testing.
-
-**Highlights**
-
-* Built a full-rank wrench allocation setup for decoupled force and torque control
-* Optimized rotor tilt configuration in MATLAB
-* Designed custom motor mounts and modular hardware
-* Tested the system using motion capture feedback
-
-### 2. Electromagnetic Effects on Microalgae Growth
+### 1. Electric Output for Testing Electromagnetic Effects on Microalgae Growth
 
 **Topics:** embedded systems, electronics prototyping, bioengineering experimentation, Arduino, Teensy, CAD, 3D printing
 
@@ -32,7 +19,7 @@ Developed a modular experimental platform to study how electric and magnetic fie
 * Implemented EEPROM-based parameter storage for autonomous runs
 * Balanced thermal, electrical, and mechanical constraints in a real lab setup
 
-### 3. Multimodal Deforestation Detection from Satellite Data
+### 2. Multimodal Deforestation Detection from Satellite Data
 
 **Topics:** machine learning, remote sensing, geospatial systems, Python, LightGBM, MLP, Sentinel data
 
@@ -45,7 +32,7 @@ Built an end-to-end machine learning pipeline for pixel-level deforestation dete
 * Generated GeoJSON outputs for spatial evaluation
 * Focused on robustness under noisy labels and regional domain shift
 
-### 4. Mobile Computer Vision for Indoor Localization
+### 3. Mobile Computer Vision for Indoor Localization
 
 **Topics:** computer vision, TensorFlow, Keras, MobileNetV2, mobile ML
 
